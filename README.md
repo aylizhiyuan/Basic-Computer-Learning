@@ -33,7 +33,11 @@ https://github.com/aylizhiyuan/ARM-SIX 数据结构与算法
 
 https://github.com/aylizhiyuan/ARM-SEVEN 设计模式
 
-未完成的是内核分析、编译原理和硬件开发，根据精力预算大概年末完成
+https://github.com/aylizhiyuan/ARM-EIGHT Liunx内核未完待续....
+
+https://github.com/aylizhiyuan/ARM-NINE  编译原理未完待续.....
+
+https://github.com/aylizhiyuan/ARM-TEN   硬件开发未完待续.....
 
 # 跟着远哥学Vue系列课程
 
