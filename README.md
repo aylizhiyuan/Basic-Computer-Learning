@@ -10,7 +10,7 @@ https://github.com/aylizhiyuan/Web-Full-Stack-Lesson-Three 架构师第一阶段
 https://github.com/aylizhiyuan/Web-Full-Stack-Lesson-Four 架构师第二阶段免费
 
 
-架构师三阶段、四阶段、五阶段的课程暂时不公开,等整理好之后全面放开
+> 架构师三阶段、四阶段、五阶段的课程暂时不公开,等整理好之后全面放开
 
 
 # 计算机专业课知识
@@ -51,27 +51,30 @@ https://github.com/aylizhiyuan/Vue-Lesson-Four 基础管理后台搭建
 
 https://github.com/aylizhiyuan/Vue-Lession-Five lzyCMS内容管理系统
 
-已经终结….
+> 已经终结....
 
 # 跟着远哥学React系列课程
 
-正在开发中...尽情期待.....
+https://github.com/aylizhiyuan/React-Lesson-One react基础入门
+
+https://github.com/aylizhiyuan/React-Lesson-Two react-redux + react-router 实践
+
+> 未完待续....
 
 
 # 源码分析之路
 
-https://github.com/aylizhiyuan/nginx-analysis nginx源码分析
+https://github.com/aylizhiyuan/nginx-analysis nginx源码分析 正在整理中...
 
-https://github.com/aylizhiyuan/nodeJS-analysis nodeJS源码分析
+https://github.com/aylizhiyuan/nodeJS-analysis nodeJS源码分析 正在整理中...
 
-https://github.com/aylizhiyuan/vue-analysis Vue源码分析
+https://github.com/aylizhiyuan/vue-analysis Vue源码分析 正在整理中...
 
-https://github.com/aylizhiyuan/redis-analysis Redis源码分析
+https://github.com/aylizhiyuan/redis-analysis Redis源码分析 正在整理中...
 
 
-预计五阶段会在后期的六月七月份完成
+> 预计五阶段会在后期的六月七月份完成
 
-小时候一直有个梦想，想做个电脑黑客，成年后发现，梦想还是需要坚持的，万一实现了呢？
 
 
 
