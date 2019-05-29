@@ -1,16 +1,16 @@
-# 我的架构师之路系列课程
+# 前端入门级别的课程
 
 
-https://github.com/aylizhiyuan/Web-Full-Stack-Lesson-One 架构师第一阶段免费
+https://github.com/aylizhiyuan/Web-Full-Stack-Lesson-One 第一阶段HTML5 + CSS3
 
-https://github.com/aylizhiyuan/Web-Full-Stack-Lesson-Two 架构师第一阶段免费
+https://github.com/aylizhiyuan/Web-Full-Stack-Lesson-Two 第二阶段JavaScript语言学习
 
-https://github.com/aylizhiyuan/Web-Full-Stack-Lesson-Three 架构师第一阶段免费
+https://github.com/aylizhiyuan/Web-Full-Stack-Lesson-Three 第三阶段Jquery库的学习
 
-https://github.com/aylizhiyuan/Web-Full-Stack-Lesson-Four 架构师第二阶段免费
+https://github.com/aylizhiyuan/Web-Full-Stack-Lesson-Four 第四阶段Koa服务器端框架 + MongoDB数据库 + Liunx操作系统 + ES6语法 + Http协议
 
 
-> 架构师三阶段、四阶段、五阶段的课程暂时不公开,等整理好之后全面放开
+> 此课程不会再有更新了，只会有小细节的调整，该课程的目的只是为了带你入门，后期的提高课程可以考虑其余的课程系列....
 
 
 # 计算机专业课知识
@@ -43,7 +43,7 @@ https://github.com/aylizhiyuan/ARM-TEN   硬件开发未完待续.....
 
 https://github.com/aylizhiyuan/Vue-Lesson-One 从零构建vue课程
 
-https://github.com/aylizhiyuan/Vue-Lesson-Two 实现jsonwebtoken方式登录注册
+https://github.com/aylizhiyuan/Vue-Lesson-Two 实现JsonWebToken方式登录注册
 
 https://github.com/aylizhiyuan/Vue-Lesson-Three 博客系统
 
@@ -51,7 +51,7 @@ https://github.com/aylizhiyuan/Vue-Lesson-Four 基础管理后台搭建
 
 https://github.com/aylizhiyuan/Vue-Lession-Five lzyCMS内容管理系统
 
-> 已经终结....
+> Vue系列课程已经更新完毕，后期只会有细节的调整
 
 # 跟着远哥学React系列课程
 
@@ -73,7 +73,7 @@ https://github.com/aylizhiyuan/vue-analysis Vue源码分析 正在整理中...
 https://github.com/aylizhiyuan/redis-analysis Redis源码分析 正在整理中...
 
 
-> 预计五阶段会在后期的六月七月份完成
+> 源码阶段会不断的更新，预计会在今年完成所有的源码分析系列课程
 
 
 联系本人: QQ 148334733 微信:15226161302
