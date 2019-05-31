@@ -19,6 +19,8 @@ https://github.com/aylizhiyuan/Network 计算机网络七层模型
 
 https://github.com/aylizhiyuan/csapp 深入理解操作系统
 
+https://github.com/aylizhiyuan/mysql 数据库学习
+
 https://github.com/aylizhiyuan/ARM-ONE C语言入门
 
 https://github.com/aylizhiyuan/ARM-TWO C++入门
