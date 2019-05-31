@@ -23,7 +23,7 @@ https://github.com/aylizhiyuan/ARM-ONE C语言入门
 
 https://github.com/aylizhiyuan/ARM-TWO C++入门
 
-https://github.com/aylizhiyuan/ARM-THREE Liunx操作系统学习
+https://github.com/aylizhiyuan/ARM-THREE Liunx基础操作和性能优化
 
 https://github.com/aylizhiyuan/ARM-FOUR Liunx系统编程
 
