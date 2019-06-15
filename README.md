@@ -68,16 +68,16 @@ https://github.com/aylizhiyuan/React-Lesson-Two react-redux + react-router 实�
 
 https://github.com/aylizhiyuan/nginx-analysis nginx源码分析 正在整理中...
 
-https://github.com/aylizhiyuan/nodeJS-analysis nodeJS源码分析 整理完毕目前
+https://github.com/aylizhiyuan/nodeJS-analysis nodeJS源码分析 整理完毕
 
-https://github.com/aylizhiyuan/vue-analysis Vue源码分析 整理完毕目前
+https://github.com/aylizhiyuan/vue-analysis Vue源码分析 整理完毕
 
 https://github.com/aylizhiyuan/redis-analysis Redis源码分析 正在整理中...
 
-https://github.com/aylizhiyuan/webpack webpack源码分析 正在整理中....
+https://github.com/aylizhiyuan/webpack webpack源码分析 整理完毕
 
 
-> 源码阶段会不断的更新，预计会在今年完成所有的源码分析系列课程
+> 源码阶段会不断的更新，预计会在一个月后整理完毕
 
 
 联系本人: QQ 148334733 微信:15226161302
