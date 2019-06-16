@@ -15,6 +15,8 @@ https://github.com/aylizhiyuan/Web-Full-Stack-Lesson-Four 第四课Koa + MongoDB
 
 # 计算机专业课知识
 
+https://github.com/aylizhiyuan/leetcode 常用算法练习
+
 https://github.com/aylizhiyuan/Network 计算机网络七层模型
 
 https://github.com/aylizhiyuan/csapp 深入理解操作系统
@@ -31,15 +33,15 @@ https://github.com/aylizhiyuan/ARM-FOUR Liunx系统编程
 
 https://github.com/aylizhiyuan/ARM-FIVE Liunx网络编程
 
-https://github.com/aylizhiyuan/ARM-SIX 数据结构与算法
+https://github.com/aylizhiyuan/ARM-SIX 数据结构
 
 https://github.com/aylizhiyuan/ARM-SEVEN 设计模式
 
-https://github.com/aylizhiyuan/ARM-EIGHT Liunx内核未完待续....
+https://github.com/aylizhiyuan/ARM-EIGHT Liunx内核 未完待续....
 
-https://github.com/aylizhiyuan/ARM-NINE  编译原理未完待续.....
+https://github.com/aylizhiyuan/ARM-NINE  编译原理 未完待续.....
 
-https://github.com/aylizhiyuan/ARM-TEN   硬件开发未完待续.....
+https://github.com/aylizhiyuan/ARM-TEN   ARM硬件开发 未完待续.....
 
 # 跟着远哥学Vue系列课程
 
@@ -83,4 +85,4 @@ https://github.com/aylizhiyuan/webpack webpack源码分析 整理完毕
 联系本人: QQ 148334733 微信:15226161302
 
 
-活着只有一个目标：完成计算机体系中从软件到硬件的所有课程.......
+完成计算机体系中从软件到硬件的所有课程.......
