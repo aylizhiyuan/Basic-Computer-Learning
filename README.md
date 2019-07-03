@@ -74,12 +74,22 @@ https://github.com/aylizhiyuan/nodeJS-analysis nodeJS源码分析 整理完毕
 
 https://github.com/aylizhiyuan/vue-analysis Vue源码分析 整理完毕
 
-https://github.com/aylizhiyuan/redis-analysis Redis源码分析 正在整理中...
+https://github.com/aylizhiyuan/redis-analysis Redis源码分析 整理完毕
 
 https://github.com/aylizhiyuan/webpack webpack源码分析 整理完毕
 
 
-> 源码阶段会不断的更新，预计会在一个月后整理完毕
+# 读书笔记系列
+
+https://github.com/aylizhiyuan/Linear-Algebra 线性代数
+
+https://github.com/aylizhiyuan/differential-calculus 微分学
+
+https://github.com/aylizhiyuan/integral-calculus 积分学
+
+https://github.com/aylizhiyuan/Probability-Statistics 概率与统计，学习中...
+
+https://github.com/aylizhiyuan/Discrete-Mathematics 离散数学,学习中....
 
 
 联系本人: QQ 148334733 微信:15226161302
