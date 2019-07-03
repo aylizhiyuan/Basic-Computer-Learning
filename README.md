@@ -92,6 +92,15 @@ https://github.com/aylizhiyuan/Probability-Statistics 概率与统计，学习�
 https://github.com/aylizhiyuan/Discrete-Mathematics 离散数学,学习中....
 
 
+# 项目
+
+https://github.com/aylizhiyuan/SNS-angularJS  社区系统项目
+
+https://github.com/aylizhiyuan/SNS-nuxt  简书系统项目
+
+https://github.com/aylizhiyuan/online-web-admin 正在写的在线教育平台前端项目....
+
+
 联系本人: QQ 148334733 微信:15226161302
 
 
