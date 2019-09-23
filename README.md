@@ -100,8 +100,6 @@ https://github.com/aylizhiyuan/SNS-nuxt  简书系统项目
 
 https://github.com/aylizhiyuan/online-web-admin 正在写的在线教育平台前端项目....
 
+# 专家
 
-联系本人: QQ 148334733 微信:15226161302
-
-
-完成计算机体系中从软件到硬件的所有课程.......
+https://github.com/aylizhiyuan/create-js-use-c 准备用c语言编译js
