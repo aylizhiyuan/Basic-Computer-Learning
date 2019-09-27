@@ -61,14 +61,17 @@ https://github.com/aylizhiyuan/Vue-Lession-Five lzyCMS内容管理系统
 
 https://github.com/aylizhiyuan/React-Lesson-One react基础入门
 
-https://github.com/aylizhiyuan/React-Lesson-Two react-redux + react-router 实践
+https://github.com/aylizhiyuan/React-Lesson-Two react-router 实践
 
-> 未完待续....
+https://github.com/aylizhiyuan/React-Lesson-Three Antd框架基本实践
 
+https://github.com/aylizhiyuan/React-Lesson-Four redux + redux中间件 + redux-saga 状态管理
+
+https://github.com/aylizhiyuan/React-Lesson-Five Antd + egg 实践大型项目电商系统
 
 # 源码分析之路
 
-https://github.com/aylizhiyuan/nginx-analysis nginx源码分析 正在整理中...
+https://github.com/aylizhiyuan/nginx-analysis nginx源码分析 分析中...
 
 https://github.com/aylizhiyuan/nodeJS-analysis nodeJS源码分析 整理完毕
 
@@ -87,9 +90,9 @@ https://github.com/aylizhiyuan/differential-calculus 微分学
 
 https://github.com/aylizhiyuan/integral-calculus 积分学
 
-https://github.com/aylizhiyuan/Probability-Statistics 概率与统计，学习中...
+https://github.com/aylizhiyuan/Probability-Statistics  概率与统计 学习中...
 
-https://github.com/aylizhiyuan/Discrete-Mathematics 离散数学,学习中....
+https://github.com/aylizhiyuan/Discrete-Mathematics  离散数学 学习中....
 
 
 # 项目
