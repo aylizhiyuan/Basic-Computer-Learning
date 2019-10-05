@@ -109,5 +109,7 @@ https://github.com/aylizhiyuan/create-js-use-c 准备用c语言编译js
 
 https://github.com/aylizhiyuan/libuv-analysis libuv源码分析
 
+从零实现一个nodeJS ....正在准备中
 
+每天一个小功能 ..... 正在启动中
 
