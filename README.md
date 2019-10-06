@@ -71,7 +71,7 @@ https://github.com/aylizhiyuan/React-Lesson-Five Antd + egg 实践大型项目�
 
 # 源码分析之路
 
-https://github.com/aylizhiyuan/nginx-analysis nginx源码分析 分析中...
+https://github.com/aylizhiyuan/eventLoop-analysis eventLoop源码分析 整理完毕
 
 https://github.com/aylizhiyuan/nodeJS-analysis nodeJS源码分析 整理完毕
 
@@ -104,6 +104,8 @@ https://github.com/aylizhiyuan/SNS-nuxt  简书系统项目
 https://github.com/aylizhiyuan/online-web-admin 正在写的在线教育平台前端项目....
 
 # 专家
+
+https://github.com/aylizhiyuan/nginx-analysis  nginx源码分析
 
 https://github.com/aylizhiyuan/create-js-use-c 准备用c语言编译js
 
