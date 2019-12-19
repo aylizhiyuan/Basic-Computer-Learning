@@ -111,9 +111,12 @@ https://github.com/aylizhiyuan/create-js-use-c 准备用c语言编译js
 
 https://github.com/aylizhiyuan/libuv-analysis libuv源码分析
 
-从零实现一个nodeJS ....正在准备中
+https://github.com/aylizhiyuan/three.js three.js建模，未来的AI设计、智能设计
 
-每天一个小功能 ..... 正在启动中
+从零实现一个nodeJS ....编译v8引擎......
 
-v8引擎....憋闷中
+
+
+
+
 
