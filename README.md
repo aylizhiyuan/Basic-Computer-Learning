@@ -10,7 +10,7 @@ https://github.com/aylizhiyuan/Web-Full-Stack-Lesson-Three 第三课Jquery库的
 https://github.com/aylizhiyuan/Web-Full-Stack-Lesson-Four 第四课Koa + MongoDB + Liunx + ES6 + Http
 
 
-> 此课程不会再有更新了，只会有小细节的调整，该课程的目的只是为了带你入门，后期的提高课程可以考虑其余的课程系列....
+> 此课程不会再有更新了，只会有小细节的调整
 
 
 # 计算机理论
@@ -131,6 +131,12 @@ https://github.com/aylizhiyuan/SNS-angularJS  社区系统项目
 https://github.com/aylizhiyuan/SNS-nuxt  简书系统项目
 
 https://github.com/aylizhiyuan/online-web-admin 在线教育平台
+
+https://github.com/aylizhiyuan/web-cad web版的cad在线设计平台
+
+....未来可期，期待更多创意的项目出来，不用很大，解决实际问题，解放生产力就是好项目
+
+
 
 
 
