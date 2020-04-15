@@ -1,5 +1,6 @@
-# web入门系列课程
+# 计算机web技术
 
+## html + css + js基础
 
 https://github.com/aylizhiyuan/Web-Full-Stack-Lesson-One 第一课HTML5 + CSS3
 
@@ -10,28 +11,64 @@ https://github.com/aylizhiyuan/Web-Full-Stack-Lesson-Three 第三课Jquery库的
 https://github.com/aylizhiyuan/Web-Full-Stack-Lesson-Four 第四课Koa + MongoDB + Liunx + ES6 + Http
 
 
-> 此课程不会再有更新了，只会有小细节的调整
+## 跟着远哥学Vue系列课程
+
+https://github.com/aylizhiyuan/Vue-Lesson-One 从零构建vue课程
+
+https://github.com/aylizhiyuan/Vue-Lesson-Two 实现JsonWebToken方式登录注册
+
+https://github.com/aylizhiyuan/Vue-Lesson-Three 博客系统
+
+https://github.com/aylizhiyuan/Vue-Lesson-Four 基础管理后台搭建
+
+https://github.com/aylizhiyuan/Vue-Lession-Five lzyCMS内容管理系统
+
+> Vue系列课程已经更新完毕，后期只会有细节的调整
+
+
+## 跟着远哥学React系列课程
+
+https://github.com/aylizhiyuan/React-Lesson-One react基础入门
+
+https://github.com/aylizhiyuan/React-Lesson-Two react-router 实践
+
+https://github.com/aylizhiyuan/React-Lesson-Four redux + redux中间件 + redux-saga 状态管理
+
+https://github.com/aylizhiyuan/React-Lesson-Three Antd框架基本实践
+
+https://github.com/aylizhiyuan/React-Lesson-Five Antd + egg 实践大型项目电商系统
+
+
+
+## 计算机图形学
+
+https://github.com/aylizhiyuan/three.js three.js入门
+
+https://github.com/aylizhiyuan/three.js-beginner three.js基础
+
 
 
 # 计算机理论
 
+
 ## 计算机操作系统
 
-https://github.com/aylizhiyuan/csapp 深入理解操作系统
+https://github.com/aylizhiyuan/ARM-THREE Liunx基础操作和性能优化 -- 服务器基础操作
 
-https://github.com/aylizhiyuan/ARM-THREE Liunx基础操作和性能优化
+https://github.com/aylizhiyuan/ARM-FOUR Liunx系统编程 -- 服务器系统级别API
 
-https://github.com/aylizhiyuan/ARM-FOUR Liunx系统编程
+https://github.com/aylizhiyuan/csapp 深入理解操作系统 -- 操作系统级别原理与实践
 
-https://github.com/aylizhiyuan/ARM-FIVE Liunx网络编程
 
-https://github.com/aylizhiyuan/ARM-EIGHT Liunx内核 
-
-https://github.com/aylizhiyuan/ARM-TEN   ARM硬件开发
 
 ## 计算机网络
 
-https://github.com/aylizhiyuan/Network 计算机网络七层模型
+https://github.com/aylizhiyuan/Network 计算机网络七层模型 -- 了解OSI七层
+
+https://github.com/aylizhiyuan/ARM-FIVE Liunx网络编程 -- 了解系统网络调用
+
+https://github.com/aylizhiyuan/eventLoop-analysis 异步系统调用 -- 解决网络高并发
+
 
 ## 计算机语言
 
@@ -49,54 +86,20 @@ https://github.com/aylizhiyuan/leetcode 常用算法练习
 
 https://github.com/aylizhiyuan/ARM-SEVEN 设计模式
 
+
 ## 编译原理
 
 https://github.com/aylizhiyuan/ARM-NINE  编译原理 未完待续.....
 
 https://github.com/aylizhiyuan/create-js-use-c c语言编译器
 
+
 ## 数据库
 
 https://github.com/aylizhiyuan/mysql 数据库学习
 
-## 计算机图形学
 
-https://github.com/aylizhiyuan/three.js three.js入门
-
-https://github.com/aylizhiyuan/three.js-beginner three.js基础
-
-
-# 跟着远哥学Vue系列课程
-
-https://github.com/aylizhiyuan/Vue-Lesson-One 从零构建vue课程
-
-https://github.com/aylizhiyuan/Vue-Lesson-Two 实现JsonWebToken方式登录注册
-
-https://github.com/aylizhiyuan/Vue-Lesson-Three 博客系统
-
-https://github.com/aylizhiyuan/Vue-Lesson-Four 基础管理后台搭建
-
-https://github.com/aylizhiyuan/Vue-Lession-Five lzyCMS内容管理系统
-
-> Vue系列课程已经更新完毕，后期只会有细节的调整
-
-
-# 跟着远哥学React系列课程
-
-https://github.com/aylizhiyuan/React-Lesson-One react基础入门
-
-https://github.com/aylizhiyuan/React-Lesson-Two react-router 实践
-
-https://github.com/aylizhiyuan/React-Lesson-Four redux + redux中间件 + redux-saga 状态管理
-
-https://github.com/aylizhiyuan/React-Lesson-Three Antd框架基本实践
-
-https://github.com/aylizhiyuan/React-Lesson-Five Antd + egg 实践大型项目电商系统
-
-
-# 源码分析之路
-
-https://github.com/aylizhiyuan/eventLoop-analysis eventLoop源码分析 
+# 架构师之路
 
 https://github.com/aylizhiyuan/nodeJS-analysis nodeJS源码分析
 
@@ -124,7 +127,7 @@ https://github.com/aylizhiyuan/Probability-Statistics  概率与统计
 https://github.com/aylizhiyuan/Discrete-Mathematics  离散数学
 
 
-# 项目
+# 曾经的项目
 
 https://github.com/aylizhiyuan/SNS-angularJS  社区系统项目
 
