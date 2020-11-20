@@ -39,15 +39,6 @@ https://github.com/aylizhiyuan/React-Lesson-Three Antd框架基本实践
 https://github.com/aylizhiyuan/React-Lesson-Five Antd + egg 实践大型项目电商系统
 
 
-
-## 1.4 计算机图形学
-
-https://github.com/aylizhiyuan/three.js three.js入门
-
-https://github.com/aylizhiyuan/three.js-beginner three.js基础
-
-
-
 # 2.计算机理论
 
 
@@ -87,14 +78,8 @@ https://github.com/aylizhiyuan/leetcode 常用算法练习
 https://github.com/aylizhiyuan/ARM-SEVEN 设计模式
 
 
-## 2.5 编译原理
 
-https://github.com/aylizhiyuan/ARM-NINE  编译原理 未完待续.....
-
-https://github.com/aylizhiyuan/create-js-use-c c语言编译器
-
-
-## 2.6 数据库
+## 2.5 数据库
 
 https://github.com/aylizhiyuan/mysql 数据库学习
 
@@ -108,8 +93,6 @@ https://github.com/aylizhiyuan/vue-analysis Vue源码分析
 https://github.com/aylizhiyuan/redis-analysis Redis源码分析
 
 https://github.com/aylizhiyuan/webpack webpack源码分析
-
-https://github.com/aylizhiyuan/nginx-analysis  nginx源码分析
 
 https://github.com/aylizhiyuan/libuv-analysis libuv源码分析
 
