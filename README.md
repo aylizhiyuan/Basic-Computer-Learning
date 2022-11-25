@@ -1,4 +1,6 @@
-# 1.计算机web技术
+## 自我介绍
+
+Full stack development，Good at c, javascript, node, network, operating system，Fanatic
 
 ## 1.1 html + css + js基础
 
