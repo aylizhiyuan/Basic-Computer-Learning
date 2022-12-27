@@ -96,8 +96,6 @@ https://github.com/aylizhiyuan/redis-analysis Redis源码分析
 
 https://github.com/aylizhiyuan/webpack webpack源码分析
 
-https://github.com/aylizhiyuan/libuv-analysis libuv源码分析
-
 
 
 
