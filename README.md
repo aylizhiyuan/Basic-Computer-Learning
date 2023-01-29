@@ -41,10 +41,10 @@ https://github.com/aylizhiyuan/React-Lesson-Three Antd框架基本实践
 https://github.com/aylizhiyuan/React-Lesson-Five Antd + egg 实践大型项目电商系统
 
 
-# 2.计算机理论
+## 2.计算机理论
 
 
-## 2.1 计算机操作系统
+### 2.1 计算机操作系统
 
 https://github.com/aylizhiyuan/ARM-THREE Liunx基础操作和性能优化 -- 服务器基础操作
 
@@ -54,7 +54,7 @@ https://github.com/aylizhiyuan/csapp 深入理解操作系统 -- 操作系统级
 
 
 
-## 2.2 计算机网络
+### 2.2 计算机网络
 
 https://github.com/aylizhiyuan/Network 计算机网络七层模型 -- 了解OSI七层
 
@@ -63,7 +63,7 @@ https://github.com/aylizhiyuan/ARM-FIVE Liunx网络编程 -- 了解系统网络�
 https://github.com/aylizhiyuan/eventLoop-analysis 异步系统调用 -- 解决网络高并发
 
 
-## 2.3 计算机语言
+### 2.3 计算机语言
 
 https://github.com/aylizhiyuan/ARM-ONE C语言入门
 
@@ -71,7 +71,7 @@ https://github.com/aylizhiyuan/ARM-TWO C++入门
 
 
 
-## 2.4 计算机数据结构与算法
+### 2.4 计算机数据结构与算法
 
 https://github.com/aylizhiyuan/ARM-SIX 数据结构
 
@@ -81,12 +81,12 @@ https://github.com/aylizhiyuan/ARM-SEVEN 设计模式
 
 
 
-## 2.5 数据库
+### 2.5 数据库
 
 https://github.com/aylizhiyuan/mysql 数据库学习
 
 
-# 3. 架构师之路
+## 3. 源码
 
 https://github.com/aylizhiyuan/nodeJS-analysis nodeJS源码分析
 
@@ -98,6 +98,19 @@ https://github.com/aylizhiyuan/webpack webpack源码分析
 
 
 
+## 4. 杂项
+
+https://github.com/aylizhiyuan/create-react-template 纯净的react项目模板（开箱即用）
+
+https://github.com/aylizhiyuan/create-react-node-template 纯净的react + node 同端口启动项目模板（开箱即用）
+
+https://github.com/aylizhiyuan/nestjs-sample  适用于大多数情况下的nestJS启动项目和基本配置
+
+https://github.com/aylizhiyuan/slow-optimization 慢路径及NodeJS实战
+
+https://github.com/aylizhiyuan/electronic-admin 电商后台项目
+
+https://github.com/aylizhiyuan/electronic-mobile 电商平台小程序
 
 
 
