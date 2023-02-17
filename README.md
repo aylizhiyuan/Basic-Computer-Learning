@@ -60,8 +60,6 @@ https://github.com/aylizhiyuan/Network 计算机网络七层模型 -- 了解OSI�
 
 https://github.com/aylizhiyuan/ARM-FIVE Liunx网络编程 -- 了解系统网络调用
 
-https://github.com/aylizhiyuan/eventLoop-analysis 异步系统调用 -- 解决网络高并发
-
 
 ### 2.3 计算机语言
 
@@ -88,11 +86,11 @@ https://github.com/aylizhiyuan/mysql 数据库学习
 
 ## 3. 源码
 
-https://github.com/aylizhiyuan/nodeJS-analysis nodeJS源码分析
+https://github.com/aylizhiyuan/nodeJS-analysis nodeJS模块分析
 
 https://github.com/aylizhiyuan/vue-analysis Vue源码分析
 
-https://github.com/aylizhiyuan/redis-analysis Redis源码分析
+https://github.com/aylizhiyuan/redis0.1 redis源码分析
 
 https://github.com/aylizhiyuan/webpack webpack源码分析
 
