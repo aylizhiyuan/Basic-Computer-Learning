@@ -13,7 +13,7 @@ https://github.com/aylizhiyuan/Web-Full-Stack-Lesson-Three 第三课Jquery库的
 https://github.com/aylizhiyuan/Web-Full-Stack-Lesson-Four 第四课Koa + MongoDB + Liunx + ES6 + Http
 
 
-## 1.2 跟着远哥学Vue系列课程
+## 1.2 Vue系列课程
 
 https://github.com/aylizhiyuan/Vue-Lesson-One 从零构建vue课程
 
@@ -25,10 +25,10 @@ https://github.com/aylizhiyuan/Vue-Lesson-Four 基础管理后台搭建
 
 https://github.com/aylizhiyuan/Vue-Lession-Five lzyCMS内容管理系统
 
-> Vue系列课程已经更新完毕，后期只会有细节的调整
+> Vue系列课程已经更新完毕（过时）
 
 
-## 1.3 跟着远哥学React系列课程
+## 1.3 React系列课程
 
 https://github.com/aylizhiyuan/React-Lesson-One react基础入门
 
@@ -36,9 +36,7 @@ https://github.com/aylizhiyuan/React-Lesson-Two react-router 实践
 
 https://github.com/aylizhiyuan/React-Lesson-Four redux + redux中间件 + redux-saga 状态管理
 
-https://github.com/aylizhiyuan/React-Lesson-Three Antd框架基本实践
-
-https://github.com/aylizhiyuan/React-Lesson-Five Antd + egg 实践大型项目电商系统
+> React系统课程已经更新完毕（过时）
 
 
 ## 2.计算机理论
