@@ -96,8 +96,6 @@ https://github.com/aylizhiyuan/webpack webpack源码分析
 
 ## 4. 杂项
 
-https://github.com/aylizhiyuan/create-react-template 纯净的react项目模板（开箱即用）
-
 https://github.com/aylizhiyuan/create-react-node-template 纯净的react + node 同端口启动项目模板（开箱即用）
 
 https://github.com/aylizhiyuan/nestjs-sample  适用于大多数情况下的nestJS启动项目和基本配置
